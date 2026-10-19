@@ -1,0 +1,11 @@
+# NW.js runtime binary folder (rat nang, khong nen push len GitHub)
+nwjs-*/
+*.zip
+
+# Windows shortcuts & OS files
+*.lnk
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log

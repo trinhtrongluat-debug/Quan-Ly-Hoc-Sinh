@@ -1,0 +1,11 @@
+{
+  "name": "quan-ly-trung-tam",
+  "main": "index.html",
+  "window": {
+    "title": "Ứng Dụng Quản Lý Trung Tâm",
+    "width": 1300,
+    "height": 800,
+    "toolbar": true
+  },
+  "chromium-args": "--disable-web-security"
+}
